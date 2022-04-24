@@ -9,6 +9,8 @@ void runLoop(void* arg) {
     game->update();
 }
 
+//Testing 
+
 int main() {
     uint32_t frameStart, frameTime;
 
